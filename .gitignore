@@ -1,0 +1,7 @@
+# Spyder project settings
+.spyderproject
+.spyproject
+
+__pycache__/
+
+*.DS_STORE
